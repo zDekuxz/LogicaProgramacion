@@ -59,7 +59,7 @@ public class CalculoSalario {
         System.out.println("Salario semanal: $" + salarioSemanal);
  
         sc.close();
-s
+
     }
 
 }
