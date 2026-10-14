@@ -1,5 +1,4 @@
 package ejercicioarreglos;
-
 import java.util.Scanner;
 
 public class arreglos {
